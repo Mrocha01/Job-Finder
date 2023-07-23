@@ -1,3 +1,8 @@
 -- Faltou entender 100% o uso do MUSTACHE para usar o JS com o HTML.
 
 -- Faltou o botão responsivo do menu, ficou sem funcionalidade.
+
+--Upload feito sem o Node_modules (precisa restaurar com o NPM INIT);
+
+--Não domino nem 50% das tecnologias aplicadas neste projeto, porém uso o material como forma de estudo para comparar com funcionalidades de projetos mais simples
+e aumentar o meu conhecimento lógico.
