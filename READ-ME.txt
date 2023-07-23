@@ -1,0 +1,3 @@
+-- Faltou entender 100% o uso do MUSTACHE para usar o JS com o HTML.
+
+-- Faltou o botão responsivo do menu, ficou sem funcionalidade.
